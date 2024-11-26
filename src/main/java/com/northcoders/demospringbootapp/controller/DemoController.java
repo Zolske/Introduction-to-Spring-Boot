@@ -3,7 +3,6 @@ import com.northcoders.demospringbootapp.model.Person;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.northcoders.demospringbootapp.model.Person;
 
 @RestController
 @RequestMapping("api/v1")
